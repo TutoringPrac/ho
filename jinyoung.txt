@@ -1,1 +1,2 @@
-clone 으로 로컬에 ho폴더를 만들고 이름파일을 push
+clone 으로 로컬에 ho폴더를 만들고 이름파일을 push 하면 메인으로 올라감
+git checkout -b jinyoung 이걸로 브랜치로 이동
